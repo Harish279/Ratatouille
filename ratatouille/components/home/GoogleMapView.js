@@ -58,7 +58,6 @@ function GoogleMapView({businessList}) {
         height:'500px',
         
     }
-
     useEffect(()=>{
       if(map&&selectedBusiness)
       {
